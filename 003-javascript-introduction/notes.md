@@ -1,3 +1,7 @@
+As you can see, this text only shows up in the newFeature branch!
+
+Don't go chasing waterfalls! 
+
 Three things I learned: 
 I learned that you can put javascript strings into the chrome console. 
 I learned that a program is just a set of instuctions to tell the computer what to do. 
