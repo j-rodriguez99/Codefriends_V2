@@ -1,0 +1,19 @@
+{
+  "name": "003-javascript-if-statements",
+  "version": "1.0.0",
+  "description": "Class 3. Text based game. ",
+  "main": "index.js",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Joshua Rodriguez",
+  "license": "ISC"
+}
